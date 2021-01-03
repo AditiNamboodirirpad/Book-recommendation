@@ -1,0 +1,14 @@
+.rateitems {
+   padding-left: 5px
+   height: 450px; 
+   overflow-y: hidden;
+}
+
+.border-box {
+   padding: 50px;
+}
+
+.btn-warning {
+   color: white; 
+   font-size: 120%;
+}
